@@ -26,8 +26,6 @@ public class Model {
         data.add(student);
     }
 
-
-
     public Student editByPosition(int position)
     {
         Student student=new Student();

@@ -16,3 +16,4 @@ screen that shows the selected student details.
 
 # Demo :camera:
 
+<img src="StudentsAppDemo.gif" width="600" height="320" />
